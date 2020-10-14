@@ -9,7 +9,7 @@ Uma semana intensa de muito aprendizado e foco construindo um sisteminha utiliza
 
 💡 De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 
-![Happy Day #1](./public/images/home.png)
+![Happy Day #1](./public/images/trilha/Happy_day_1.png)
 
 
 
