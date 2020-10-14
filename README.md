@@ -19,7 +19,7 @@ Uma ideia bastante colaborativa que se implementada corretamento pode dar muito 
 - [x] **Day #1**
   > - Desenvolvimento da Landing Page do projeto
   > - Conceitos básicos sobre HTML e CSS 
-  ![Happy day #1](./public/images/trilha/happy_day_1.png)
+  ![Happy day #1](./public/images/trilha/Happy_day_1.png)
 
 <!-- 
 ## 📈 Exemplo de uso
