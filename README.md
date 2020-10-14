@@ -7,12 +7,21 @@ Uma semana intensa de muito aprendizado e foco construindo um sisteminha utiliza
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-💡 De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+💡 O [Happy](https://castelogui.github.io/nlw-3/) é uma ideia criada pela equipe da rocketseat na semana do **dia das crianças**. A ideia principal e desenvolver um sistema que seje possível cadastrar orfanatos de várias localidades. Dessa maneira, será possível que as comunidades conheçam os orfanatos de sua região. Com isso poderia ser realizadas visitas nos orfanatos cadastrados, com intíuido de fazer uma criança mais feliz, tendo em vista que as orfãs não recebem muitas visitas, talvez nenhuma. 
 
-![Happy Day #1](./public/images/trilha/Happy_day_1.png)
+Uma ideia bastante colaborativa que se implementada corretamento pode dar muito certo e ajudar muitos orfanatos e muitas crianças a terem uma nova visão de suas vidas.
+
+![Happy](./public/images/bg.svg)
 
 
+## 🗃 Desenvolvimento
 
+- [x] **Day #1**
+  > - Desenvolvimento da Landing Page do projeto
+  > - Conceitos básicos sobre HTML e CSS 
+  ![Happy day #1](./public/images/trilha/happy_day_1.png)
+
+<!-- 
 ## 📈 Exemplo de uso
 
 Alguns exemplos interessantes e úteis sobre como seu projeto pode ser utilizado. Adicione blocos de códigos e, se necessário, screenshots.
@@ -27,9 +36,10 @@ Descreva como instalar todas as dependências para desenvolvimento e como rodar 
 make install
 npm test
 ```
-
+-->
 ## 🗃 Histórico de lançamentos
 
+<!--  
 * 0.2.1
     * MUDANÇA: Atualização de docs (código do módulo permanece inalterado)
 * 0.2.0
@@ -40,20 +50,21 @@ npm test
 * 0.1.0
     * O primeiro lançamento adequado
     * MUDANÇA: Renomeia `foo()` para `bar()`
+-->
 * 0.0.1
-    * Trabalho em andamento
+    * Trabalho em andamento durante a semana do **Next Level Week #3**
 
 ## 📋 Meta
 
-Seu Nome – [@SeuNome](https://twitter.com/...) – SeuEmail@exemplo.com
+Guilherme Castelo – [@castelogui](https://twitter.com/...) – guilhermecastelo.mail@gmail.com
 
 Distribuído sob a licença XYZ. Veja `LICENSE` para mais informações.
 
-[https://github.com/seuprojeto/github-link](https://github.com/devgabrieldejesus/)
+[Happy](https://castelogui.github.io/nlw-3/)
 
 ## 🚀 Contributing
 
-1. Faça o _fork_ do projeto (<https://github.com/seunome/seuprojeto/fork>)
+1. Faça o _fork_ do projeto (<https://github.com/castelogui/nlw-3/fork>)
 2. Crie uma _branch_ para sua modificação (`git checkout -b feature/fooBar`)
 3. Faça o _commit_ (`git commit -am 'Add some fooBar'`)
 4. _Push_ (`git push origin feature/fooBar`)
@@ -64,4 +75,4 @@ Distribuído sob a licença XYZ. Veja `LICENSE` para mais informações.
 [npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/seunome/seuprojeto/wiki
+[wiki]: https://github.com/castelogui/nlw-3/wiki
