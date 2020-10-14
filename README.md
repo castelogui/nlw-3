@@ -21,6 +21,15 @@ Uma ideia bastante colaborativa que se implementada corretamento pode dar muito 
   > - Conceitos básicos sobre HTML e CSS 
   ![Happy day #1](./public/images/trilha/Happy_day_1.png)
 
+- [ ] **Day #2**
+  
+- [ ] **Day #3**
+
+- [ ] **Day #4**
+  
+- [ ] **Day #5**
+  
+
 <!-- 
 ## 📈 Exemplo de uso
 
