@@ -28,6 +28,22 @@ aside p{
 aside footer p{
   margin-top: .8rem;
 }
+aside footer button{
+  width: 48px;
+  height: 48px;
+  border: none;
+  background: #12afcb;
+  border-radius: 1.6rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  transition: background-color 0.2s;
+}
+aside footer button:hover{
+  background: #138ea3;
+}
 
 #mapid{
   width: 100%;
