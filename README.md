@@ -23,21 +23,32 @@ Uma ideia bastante colaborativa que se implementada corretamento pode dar muito 
 
 - [x] **Day #2**
   > - Finalização da Landing Page do Happy
+
         - adição de animações
+  
         - imagem
+  
   ![Happy day #2](./public/images/trilha/Happy_day_2_landing_page_final.png)
   > - Desenvolvimento da página de localização dos orfanados
+  
         - adição do mapa
+  
         - adição de animações
   ![Happy day #2](./public/images/trilha/Happy_day_2_img_0.png)
   > - Criação da página de um específico orfanato
+  
         - Adição de uma galeria de imagens aleatórias
+  
   ![Happy day #2](./public/images/trilha/Happy_day_2_img_1.png)
   ![Happy day #2](./public/images/trilha/Happy_day_2_img_2.png)
   > - Introdução maior ao javascript
+  
         - funções
+  
         - variaveis e constantes
+  
         - laços de repetições
+  
   ![Happy day #2](./public/images/trilha/Happy_day_2_img_3.png)   
 
   
