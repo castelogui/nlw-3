@@ -40,6 +40,8 @@ Uma ideia bastante colaborativa que se implementada corretamento pode dar muito 
         - Adição de uma galeria de imagens aleatórias
   
   ![Happy day #2](./public/images/trilha/Happy_day_2_img_1.png)
+
+  ---
   ![Happy day #2](./public/images/trilha/Happy_day_2_img_2.png)
   > - Introdução maior ao javascript
   
@@ -52,7 +54,18 @@ Uma ideia bastante colaborativa que se implementada corretamento pode dar muito 
   ![Happy day #2](./public/images/trilha/Happy_day_2_img_3.png)   
 
   
-- [ ] **Day #3**
+- [x] **Day #3**
+    > - Desenvolvimento da pagina de criação de novo orfanato
+
+        - mais independência das estilizações
+        - adição de funções js
+
+    ![Happy day #3](./public/images/trilha/Happy_day_3.png)
+
+    ---
+    
+    ![Happy day #3](./public/images/trilha/Happy_day_3_img2.png)
+
 
 - [ ] **Day #4**
   
