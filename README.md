@@ -109,7 +109,7 @@ npm test
 
 Guilherme Castelo – [@castelogui](https://twitter.com/...) – guilhermecastelo.mail@gmail.com
 
-Distribuído sob a licença XYZ. Veja `LICENSE` para mais informações.
+Distribuído sob a MIT License. Veja [LICENSE][license] para mais informações.
 
 [Happy](https://castelogui.github.io/nlw-3/)
 
@@ -127,3 +127,4 @@ Distribuído sob a licença XYZ. Veja `LICENSE` para mais informações.
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/castelogui/nlw-3/wiki
+[license]: https://github.com/castelogui/nlw-3/blob/main/LICENSE
